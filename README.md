@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Loleyman
-- 👀 I’m interested in coding game engines
 - 🌱 I’m currently learning C++
 
 <!---
